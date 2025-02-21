@@ -22,7 +22,7 @@ An interactive quiz platform built with **React.js**, featuring a **timer**, **p
 
 #### **1️⃣ Clone the Repository**  
 ```sh
-git clone [https://github.com/prashantkumarpro/Interactive-quiz.git](https://github.com/prashantkumarpro/Interactive-quiz)
+git clone https://github.com/prashantkumarpro/Interactive-quiz
 cd quiz-app
 ```
 

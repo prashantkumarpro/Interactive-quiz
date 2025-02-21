@@ -40,7 +40,7 @@ This will start the development server, usually at `http://localhost:5173/`.
 ---
 
 ### **🌍 Live Demo**  
-🔗 **Deployed App:** [Your Deployment Link Here](https://your-live-app-link.com)  
+🔗 **Deployed App:** https://interactive-quiz-eight.vercel.app/  
 
 ---
 
